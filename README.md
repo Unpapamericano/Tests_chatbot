@@ -1,7 +1,7 @@
-PDF Document Processor with Llama 3 Embeddings Integration
+#PDF Document Processor with Llama 3 Embeddings Integration
 
 
-Table of Contents
+##Table of Contents
 Installation
 Project Structure
 Features
